@@ -28,3 +28,5 @@ npm-debug.log
 .idea/
 dist/
 publish/
+packages/
+src/Compendium.Core/obj/
